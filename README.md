@@ -3,13 +3,13 @@
 ## 📘 The Exercise Instructions
 
 Given the following dictionary:
-
+```python
 courses = {
     "course_1": {"name": "Math", "credits": 3, "students": ["Alice", "Bob"]},
     "course_2": {"name": "Science", "credits": 4, "students": ["Charlie"]},
     "course_3": {"name": "History", "credits": 2, "students": ["David", "Eve", "Frank"]}
 }
-'''Perform these tasks:
+Perform these tasks:
 
 Add a new student to Science.
 
@@ -54,4 +54,4 @@ course_3
 📅 Part of My AI/ML Learning Journey
 Day 3 – now combining dictionaries with lists. This is useful for representing relational data (e.g., a course with multiple enrolled students). In ML, similar structures appear when grouping data points by category.
 
-Another step forward. Dictionaries are becoming natural.'''
+Another step forward. Dictionaries are becoming natural.
